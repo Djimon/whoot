@@ -1,0 +1,3 @@
+C:\Users\Chris Djih\Documents\Unreal Projects\Whoot\Source\Whoot\Whoot.Build.cs
+C:\Users\Chris Djih\Documents\Unreal Projects\Whoot\Source\Whoot.Target.cs
+C:\Users\Chris Djih\Documents\Unreal Projects\Whoot\Source\WhootEditor.Target.cs

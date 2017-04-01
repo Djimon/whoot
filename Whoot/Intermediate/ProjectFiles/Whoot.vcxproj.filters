@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Whoot.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{427BE2D3-828E-4528-9A86-82C8B7296056}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Whoot.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\WhootEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9ED3B98C-4E81-4F30-BE59-E6269DCC24C6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Whoot">
+			<UniqueIdentifier>{E4FFA07D-A288-42A8-8CD3-1ED3B195A985}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Whoot\Whoot.Build.cs">
+			<Filter>Source\Whoot</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Whoot\Whoot.cpp">
+			<Filter>Source\Whoot</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Whoot\Whoot.h">
+			<Filter>Source\Whoot</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Whoot\WhootCharacter.cpp">
+			<Filter>Source\Whoot</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Whoot\WhootCharacter.h">
+			<Filter>Source\Whoot</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Whoot\WhootGameMode.cpp">
+			<Filter>Source\Whoot</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Whoot\WhootGameMode.h">
+			<Filter>Source\Whoot</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Whoot\WhootHUD.cpp">
+			<Filter>Source\Whoot</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Whoot\WhootHUD.h">
+			<Filter>Source\Whoot</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Whoot\WhootProjectile.cpp">
+			<Filter>Source\Whoot</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Whoot\WhootProjectile.h">
+			<Filter>Source\Whoot</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
